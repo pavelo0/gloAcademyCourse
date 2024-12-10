@@ -1,1 +1,1 @@
-# gloAcademyCourse
+# GloAcademyCourse
